@@ -4,6 +4,8 @@ Here's a sample `README.md` for your "Text Craft" project, a web-based text edit
 
 # Text Craft
 
+# website Link : https://aniket04087021.github.io/Text-Craft/ 
+
 Text Craft is a modern, web-based text editor that allows users to write, format, and style their text with ease, just like a design platform such as Canva. With a user-friendly interface, you can create rich text content, customize fonts, colors, and alignments, and save your work.
 
 ## Features
